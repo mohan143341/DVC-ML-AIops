@@ -2,7 +2,7 @@
 https://github.com/mohan143341/DVC-ML-AIops
 
 ## wokflow -
-<img src="others/images/simple-workflow-01@2x.png" alt="workflow" width="70%">
+<img src="Images/simple-workflow-01@2x.png" alt="workflow" width="70%">
 
 # STEPS:
 ## STEP 01: Create a empty remote repository
